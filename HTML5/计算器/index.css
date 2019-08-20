@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+div{
+    width: 170px;
+}
+#div1{
+    top: 60px;
+    left: 100px;
+    position: absolute;
+}
+input[type="button"]{
+    width: 28px;
+    margin-left: 4px;
+}
+input[type="text"]{
+    width: 143px;
+    text-align: right;
+    background-color: #ffffff;
+    border: 1px solid;
+    padding-right: 5px;
+    box-sizing: border-box;
+}
+
+input[type="button"]:hover{
+    background-color:violet;
+    border: 1px solid;
+}
